@@ -1,0 +1,17 @@
+C:\Users\jbgir\source\repos\Myname\bin\Debug\net5.0\Myname.exe
+C:\Users\jbgir\source\repos\Myname\bin\Debug\net5.0\Myname.deps.json
+C:\Users\jbgir\source\repos\Myname\bin\Debug\net5.0\Myname.runtimeconfig.json
+C:\Users\jbgir\source\repos\Myname\bin\Debug\net5.0\Myname.runtimeconfig.dev.json
+C:\Users\jbgir\source\repos\Myname\bin\Debug\net5.0\Myname.dll
+C:\Users\jbgir\source\repos\Myname\bin\Debug\net5.0\Myname.pdb
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.csproj.AssemblyReference.cache
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.AssemblyInfoInputs.cache
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.AssemblyInfo.cs
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.csproj.CoreCompileInputs.cache
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.dll
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\ref\Myname.dll
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.pdb
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.genruntimeconfig.cache
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\Myname.sourcelink.json
+C:\Users\jbgir\source\repos\Myname\obj\Debug\net5.0\refint\Myname.dll
