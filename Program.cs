@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Myname
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("my name is Jason");
+        }
+    }
+}
