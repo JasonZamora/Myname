@@ -1,4 +1,5 @@
-﻿using System;
+sing System;
+using System.Threading;
 
 namespace Myname
 {
@@ -7,6 +8,7 @@ namespace Myname
         static void Main(string[] args)
         {
             Console.WriteLine("my name is Jason Girón");
+            Thread.Sleep(10000);
         }
     }
 }
